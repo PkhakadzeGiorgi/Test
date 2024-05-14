@@ -1,3 +1,5 @@
+print("calc")
+
 x = int(input("X : "))
 y = int(input("Y : "))
 
